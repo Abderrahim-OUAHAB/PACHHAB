@@ -167,7 +167,7 @@ let drawScore=()=>{
 let drawGameOver=()=>{
     ctx.font="50px 'Press Start 2P'";
     ctx.fillStyle="red";
-    ctx.fillText("GAME OVER !",50,230);
+    ctx.fillText("GAME OVER!",25,230);
 }
 
 let drawWin=()=>{
